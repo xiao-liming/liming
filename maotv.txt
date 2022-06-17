@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "csp_77",
-      "name": "é»˜è®¤ä¸»é¡µ",
+      "name": "Ä¬ÈÏÖ÷Ò³",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 0,
@@ -11,7 +11,7 @@
     },
     {
       "key": "csp_xpath_qiyou",
-      "name": "å¥‡ä¼˜",
+      "name": "ÆæÓÅ",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 0,
@@ -21,7 +21,7 @@
     },
     {
       "key": "csp_77",
-      "name": "ä¸ƒä¸ƒðŸž",
+      "name": "ÆßÆß”9Ì4",
       "type": 3,
       "api": "csp_Kunyu77",
       "searchable": 1,
@@ -30,27 +30,27 @@
     },
     {
       "key": "csp_xpath_jbb",
-      "name": "å‰§ç™½ç™½",
+      "name": "¾ç°×°×",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://kds2.coding.net/p/k/d/k/git/raw/master/xpath/jubaibai.json"
+      "ext": "https://xiao-liming.github.io/liming/jubaibai.json"
     },
     {
-      "key": "csp_biubiu_è“èŽ“å½±è§†",
-      "name": "è“èŽ“å½±è§†",
+      "key": "csp_biubiu_À¶Ý®Ó°ÊÓ",
+      "name": "À¶Ý®Ó°ÊÓ",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://g2.pub/link/m/json/lanmei.json"
+      "ext": "https://xiao-liming.github.io/liming/lanmei.txt"
     },
     {
-      "key": "csp_xpath_ç½‘ç»œæœé›†åº“huaya",
-      "name": "è™Žç‰™ðŸŽ¤",
+      "key": "csp_xpath_ÍøÂçËÑ¼¯¿âhuaya",
+      "name": "»¢ÑÀ”9À2",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -59,8 +59,8 @@
       "ext": "https://gitea.com/99/x/raw/branch/main/huya.js"
     },
     {
-      "key": "csp_xpath_ç½‘ç»œæœé›†åº“qiumi",
-      "name": "çƒè¿·ðŸ€",
+      "key": "csp_xpath_ÍøÂçËÑ¼¯¿âqiumi",
+      "name": "ÇòÃÔ”9Ã0",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
@@ -70,7 +70,7 @@
     },
     {
       "key": "csp_xpath_A33",
-      "name": "MTVðŸŽ¸",
+      "name": "MTV”9Â2",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -80,7 +80,7 @@
     },
     {
       "key": "csp_CZSPP",
-      "name": "åŽ‚é•¿ðŸž",
+      "name": "³§³¤”9Ì4",
       "type": 3,
       "api": "csp_CZSPP",
       "searchable": 1,
@@ -89,7 +89,7 @@
     },
     {
       "key": "csp_LiteApple",
-      "name": "è‹¹æžœðŸž",
+      "name": "Æ»¹û”9Ì4",
       "type": 3,
       "api": "csp_LiteApple",
       "searchable": 1,
@@ -98,7 +98,7 @@
     },
     {
       "key": "csp_Zxzj",
-      "name": "åœ¨çº¿ðŸž",
+      "name": "ÔÚÏß”9Ì4",
       "type": 3,
       "api": "csp_Zxzj",
       "searchable": 1,
@@ -107,7 +107,7 @@
     },
     {
       "key": "csp_DiDuan",
-      "name": "ä½Žç«¯ðŸž",
+      "name": "µÍ¶Ë”9Ì4",
       "type": 3,
       "api": "csp_DiDuan",
       "searchable": 1,
@@ -116,7 +116,7 @@
     },
     {
       "key": "csp_Cokemv",
-      "name": "CokeðŸž",
+      "name": "Coke”9Ì4",
       "type": 3,
       "api": "csp_Cokemv",
       "searchable": 1,
@@ -124,8 +124,8 @@
       "filterable": 1
     },
     {
-      "key": "csp_XBiubiubiubiu_è“å…‰å½±è§†",
-      "name": "è“å…‰ðŸž",
+      "key": "csp_XBiubiubiubiu_À¶¹âÓ°ÊÓ",
+      "name": "À¶¹â”9Ì4",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -135,7 +135,7 @@
     },
     {
       "key": "csp_GitCafe",
-      "name": "çº¸æ¡ðŸ“ƒ",
+      "name": "Ö½Ìõ”9Ü9",
       "type": 3,
       "api": "csp_GitCafe",
       "searchable": 1,
@@ -144,7 +144,7 @@
     },
     {
       "key": "csp_AliPanSou",
-      "name": "çŒ«æœðŸ˜»",
+      "name": "Ã¨ËÑ•0„5",
       "type": 3,
       "api": "csp_AliPanSou",
       "searchable": 1,
@@ -153,7 +153,7 @@
     },
     {
       "key": "csp_Qicui",
-      "name": "å¥‡ç²¹ðŸž",
+      "name": "Ææ´â”9Ì4",
       "type": 3,
       "api": "csp_Qicui",
       "searchable": 1,
@@ -162,7 +162,7 @@
     },
     {
       "key": "csp_DY1990",
-      "name": "990ðŸž",
+      "name": "990”9Ì4",
       "type": 3,
       "api": "csp_DY1990",
       "searchable": 1,
@@ -170,8 +170,8 @@
       "filterable": 0
     },
     {
-      "key": "csp_appysv2_9eå›½è¯­",
-      "name": "9Eå›½è¯­",
+      "key": "csp_appysv2_9e¹úÓï",
+      "name": "9E¹úÓï",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -180,8 +180,8 @@
       "ext": "http://vod.9e03.com/lvdou_api.php/v1.vod"
     },
     {
-      "key": "csp_xpath_ç½‘ç»œæœé›†åº“112",
-      "name": "å·¥äºº",
+      "key": "csp_xpath_ÍøÂçËÑ¼¯¿â112",
+      "name": "¹¤ÈË",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
@@ -190,8 +190,8 @@
       "ext": "https://gitea.com/99/x/raw/branch/main/519-gongreng.json"
     },
     {
-      "key": "csp_xpath_ç½‘ç»œæœé›†æº03",
-      "name": "åœ¨çº¿",
+      "key": "csp_xpath_ÍøÂçËÑ¼¯Ô´03",
+      "name": "ÔÚÏß",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
@@ -200,8 +200,8 @@
       "ext": "https://gitea.com/99/x/raw/branch/main/zxzj.js"
     },
     {
-      "key": "csp_xpath_01-ç½‘ç»œæœé›†æº00",
-      "name": "éªšç«",
+      "key": "csp_xpath_01-ÍøÂçËÑ¼¯Ô´00",
+      "name": "É§»ð",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -221,7 +221,7 @@
     },
     {
       "key": "csp_XBiubiubiubiu_lezhu",
-      "name": "ä¹çŒª(B)",
+      "name": "ÀÖÖí(B)",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -241,7 +241,7 @@
     },
     {
       "key": "csp_XBiubiubiubiu_ysgc",
-      "name": "å·¥åŽ‚(B)",
+      "name": "¹¤³§(B)",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -260,8 +260,8 @@
       "ext": "https://gitea.com/99/b/raw/branch/main/xb/city.js"
     },
     {
-      "key": "csp_XBiubiubiubiu_æ‰‹æœºçœ‹å‰§",
-      "name": "æ‰‹æœº(B)",
+      "key": "csp_XBiubiubiubiu_ÊÖ»ú¿´¾ç",
+      "name": "ÊÖ»ú(B)",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -270,8 +270,8 @@
       "ext": "https://gitea.com/99/b/raw/branch/main/xb/b06-sjkj.js"
     },
     {
-      "key": "csp_XBiubiubiubiu_å£è¢‹å½±é™¢",
-      "name": "å£è¢‹(B)",
+      "key": "csp_XBiubiubiubiu_¿Ú´üÓ°Ôº",
+      "name": "¿Ú´ü(B)",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -280,8 +280,8 @@
       "ext": "https://gitea.com/99/b/raw/branch/main/xb/b07-kdys.js"
     },
     {
-      "key": "csp_XBiubiubiubiu_4kanç”µå½±ç½‘",
-      "name": "4kç½‘(B)",
+      "key": "csp_XBiubiubiubiu_4kanµçÓ°Íø",
+      "name": "4kÍø(B)",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -290,8 +290,8 @@
       "ext": "https://gitea.com/99/b/raw/branch/main/xb/b11-4Kkan.js"
     },
     {
-      "key": "csp_XPath_çŒ«ç¾¤é¦–å‘",
-      "name": "å“”å˜€",
+      "key": "csp_XPath_Ã¨ÈºÊ×·¢",
+      "name": "ßÙàÖ",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
@@ -300,8 +300,8 @@
       "ext": "https://gitea.com/99/x/raw/branch/main/519-bidi.json"
     },
     {
-      "key": "csp_xpath_ç½‘ç»œæœé›†åº“29",
-      "name": "ä¹Œé¾Ÿ",
+      "key": "csp_xpath_ÍøÂçËÑ¼¯¿â29",
+      "name": "ÎÚ¹ê",
       "type": 3,
       "api": "csp_XPathMac",
       "searchable": 1,
@@ -310,8 +310,8 @@
       "ext": "https://gitea.com/99/x/raw/branch/main/519-dadagui.json"
     },
     {
-      "key": "csp_XPathMacFilter_ç½‘ç»œæœé›†æº02",
-      "name": "æžå“",
+      "key": "csp_XPathMacFilter_ÍøÂçËÑ¼¯Ô´02",
+      "name": "¼«Æ·",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
@@ -320,8 +320,8 @@
       "ext": "https://gitea.com/99/x/raw/branch/main/jp"
     },
     {
-      "key": "csp_xpath_ç½‘ç»œæœé›†åº“naikan",
-      "name": "è€çœ‹",
+      "key": "csp_xpath_ÍøÂçËÑ¼¯¿ânaikan",
+      "name": "ÄÍ¿´",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
@@ -330,8 +330,8 @@
       "ext": "https://gitea.com/99/x/raw/branch/main/516-naikan.js"
     },
     {
-      "key": "csp_appysv2_çˆ±é…·å½±è§†",
-      "name": "é…·é…·",
+      "key": "csp_appysv2_°®¿áÓ°ÊÓ",
+      "name": "¿á¿á",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -341,7 +341,7 @@
     },
     {
       "key": "csp_xpath_hhys",
-      "name": "ç«ç«",
+      "name": "»ð»ð",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
@@ -350,8 +350,8 @@
       "ext": "https://gitea.com/99/x/raw/branch/main/604-huohuo.js"
     },
     {
-      "key": "csp_xpath_ç½‘ç»œæœé›†åº“kankan",
-      "name": "çœ‹çœ‹",
+      "key": "csp_xpath_ÍøÂçËÑ¼¯¿âkankan",
+      "name": "¿´¿´",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
@@ -360,8 +360,8 @@
       "ext": "https://gitea.com/99/x/raw/branch/main/516-wmkankan.js"
     },
     {
-      "key": "csp_AppYsV2_ç¾Žå‰§èŒƒ",
-      "name": "ç¾Žå‰§",
+      "key": "csp_AppYsV2_ÃÀ¾ç·¶",
+      "name": "ÃÀ¾ç",
       "type": 3,
       "api": "csp_AppYsV2",
       "searchable": 1,
@@ -370,8 +370,8 @@
       "ext": "http://ttzmz.net/api.php/v1.vod"
     },
     {
-      "key": "csp_xpath_ç½‘ç»œæœé›†åº“heidong",
-      "name": "é»‘æ´ž",
+      "key": "csp_xpath_ÍøÂçËÑ¼¯¿âheidong",
+      "name": "ºÚ¶´",
       "type": 3,
       "api": "csp_XPathMac",
       "searchable": 1,
@@ -380,8 +380,8 @@
       "ext": "https://gitea.com/99/x/raw/branch/main/505-heidong.js"
     },
     {
-      "key": "csp_xpath_ç½‘ç»œæœé›†æºA13",
-      "name": "å…­åº¦",
+      "key": "csp_xpath_ÍøÂçËÑ¼¯Ô´A13",
+      "name": "Áù¶È",
       "type": 3,
       "api": "csp_XPathMacFilter",
       "searchable": 1,
@@ -390,8 +390,8 @@
       "ext": "https://gitea.com/99/x/raw/branch/main/6dutv.js"
     },
     {
-      "key": "csp_xpath_ç½‘ç»œæœé›†åº“108",
-      "name": "å°ç†Š",
+      "key": "csp_xpath_ÍøÂçËÑ¼¯¿â108",
+      "name": "Ð¡ÐÜ",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -400,8 +400,8 @@
       "ext": "https://gitea.com/99/x/raw/branch/main/519-xiaoxiong.json"
     },
     {
-      "key": "csp_xpath_ç½‘ç»œæœé›†åº“62",
-      "name": "å˜€å“©",
+      "key": "csp_xpath_ÍøÂçËÑ¼¯¿â62",
+      "name": "àÖÁ¨",
       "type": 3,
       "api": "csp_XPathFilter",
       "searchable": 1,
@@ -410,8 +410,8 @@
       "ext": "https://gitea.com/99/x/raw/branch/main/519-dili.json"
     },
     {
-      "key": "csp_xpath_ç½‘ç»œæœé›†åº“80",
-      "name": "å…”å­",
+      "key": "csp_xpath_ÍøÂçËÑ¼¯¿â80",
+      "name": "ÍÃ×Ó",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -420,8 +420,8 @@
       "ext": "https://gitea.com/99/x/raw/branch/main/519-tuzi.json"
     },
     {
-      "key": "csp_xpath_ç½‘ç»œæœé›†åº“03",
-      "name": "å½±å§",
+      "key": "csp_xpath_ÍøÂçËÑ¼¯¿â03",
+      "name": "Ó°°É",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -430,7 +430,7 @@
       "ext": "https://gitea.com/99/x/raw/branch/main/519-yingba.json"
     },
     {
-      "key": "csp_XPathMacFilter_ç½‘ç»œæœé›†æº01-js",
+      "key": "csp_XPathMacFilter_ÍøÂçËÑ¼¯Ô´01-js",
       "name": "VOD",
       "type": 3,
       "api": "csp_XPathMacFilter",
@@ -440,8 +440,8 @@
       "ext": "https://gitea.com/99/x/raw/branch/main/519-vod.json"
     },
     {
-      "key": "csp_xpath_ç½‘ç»œæœé›†åº“72",
-      "name": "é’‰é’‰",
+      "key": "csp_xpath_ÍøÂçËÑ¼¯¿â72",
+      "name": "¶¤¶¤",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -450,8 +450,8 @@
       "ext": "https://gitea.com/99/x/raw/branch/main/519-dingzidy.json"
     },
     {
-      "key": "csp_xpath_ç½‘ç»œæœé›†æº21",
-      "name": "æ¨±èŠ±",
+      "key": "csp_xpath_ÍøÂçËÑ¼¯Ô´21",
+      "name": "Ó£»¨",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -461,7 +461,7 @@
     },
     {
       "key": "csp_xpath_A32",
-      "name": "åŠ¨æ¼«",
+      "name": "¶¯Âþ",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -470,8 +470,8 @@
       "ext": "https://gitea.com/99/x/raw/branch/main/604-dmd.js"
     },
     {
-      "key": "csp_xpath_ç½‘ç»œæœé›†æº22",
-      "name": "å·´å£«",
+      "key": "csp_xpath_ÍøÂçËÑ¼¯Ô´22",
+      "name": "°ÍÊ¿",
       "type": 3,
       "api": "csp_XPath",
       "searchable": 1,
@@ -480,7 +480,7 @@
       "ext": "https://gitea.com/99/x/raw/branch/main/604-dm84.js"
     },
     {
-      "key": "csp_xpath_ç½‘ç»œæœé›†æº23",
+      "key": "csp_xpath_ÍøÂçËÑ¼¯Ô´23",
       "name": "AGE",
       "type": 3,
       "api": "csp_XPath",
@@ -490,8 +490,8 @@
       "ext": "https://gitea.com/99/x/raw/branch/main/604-age.js"
     },
     {
-      "key": "csp_biubiu_é£Žè½¦åŠ¨æ¼«",
-      "name": "é£Žè½¦",
+      "key": "csp_biubiu_·ç³µ¶¯Âþ",
+      "name": "·ç³µ",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -500,8 +500,8 @@
       "ext": "https://gitea.com/99/b/raw/branch/main/xb/d05-fcdm.js"
     },
     {
-      "key": "csp_biubiu_æ£®å±‹æ–°ç•ª",
-      "name": "æ£®å±‹",
+      "key": "csp_biubiu_É­ÎÝÐÂ·¬",
+      "name": "É­ÎÝ",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -510,8 +510,8 @@
       "ext": "https://gitea.com/99/b/raw/branch/main/xb/d02-swxf.js"
     },
     {
-      "key": "csp_biubiu_ç»´å¥‡åŠ¨æ¼«",
-      "name": "ç»´å¥‡",
+      "key": "csp_biubiu_Î¬Ææ¶¯Âþ",
+      "name": "Î¬Ææ",
       "type": 3,
       "api": "csp_XBiubiu",
       "searchable": 1,
@@ -521,7 +521,7 @@
     },
     {
       "key": "push_agent",
-      "name": "æŽ¨é€",
+      "name": "ÍÆËÍ",
       "type": 3,
       "api": "csp_Ali",
       "searchable": 0,
@@ -544,7 +544,7 @@
   ],
   "parses": [
     {
-      "name": "é»˜è®¤é€‰é¡¹",
+      "name": "Ä¬ÈÏÑ¡Ïî",
       "type": 3,
       "url": "Demo"
     },
@@ -569,23 +569,23 @@
       }
     },
     {
-      "name": "ç½‘ç»œæœé›†02",
+      "name": "ÍøÂçËÑ¼¯02",
       "type": 1,
       "url": "https://json.pangujiexi.com/json.php?url=",
       "ext": {
         "flag": [
           "youku",
-          "ä¼˜é…·",
+          "ÓÅ¿á",
           "qq",
-          "è…¾è®¯",
+          "ÌÚÑ¶",
           "qiyi",
-          "çˆ±å¥‡è‰º",
-          "å¥‡è‰º"
+          "°®ÆæÒÕ",
+          "ÆæÒÕ"
         ]
       }
     },
     {
-      "name": "ç½‘ç»œæœé›†03",
+      "name": "ÍøÂçËÑ¼¯03",
       "type": 1,
       "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
       "ext": {
@@ -596,40 +596,40 @@
       }
     },
     {
-      "name": "ç½‘ç»œæœé›†04",
+      "name": "ÍøÂçËÑ¼¯04",
       "type": 1,
       "url": "http://api.vip123kan.vip/?url=",
       "ext": {
         "flag": [
           "youku",
-          "ä¼˜é…·",
+          "ÓÅ¿á",
           "mgtv",
-          "èŠ’æžœ",
+          "Ã¢¹û",
           "qq",
-          "è…¾è®¯",
+          "ÌÚÑ¶",
           "qiyi",
-          "çˆ±å¥‡è‰º",
+          "°®ÆæÒÕ",
           "qq",
           "xigua",
-          "å¥‡è‰º"
+          "ÆæÒÕ"
         ]
       }
     },
     {
-      "name": "ç½‘ç»œæœé›†05",
+      "name": "ÍøÂçËÑ¼¯05",
       "type": 1,
       "url": "https://a.dxzj88.com/jxrrm/jiami.php?url=",
       "ext": {
         "flag": [
           "qq",
-          "è…¾è®¯",
+          "ÌÚÑ¶",
           "qiyi",
-          "çˆ±å¥‡è‰º",
-          "å¥‡è‰º",
+          "°®ÆæÒÕ",
+          "ÆæÒÕ",
           "youku",
-          "ä¼˜é…·",
+          "ÓÅ¿á",
           "sohu",
-          "èŠ’æžœ",
+          "Ã¢¹û",
           "mgtv",
           "xigua",
           "wuduzy",
@@ -637,7 +637,7 @@
           "pptv",
           "leduo",
           "Clk4",
-          "å“”å“©",
+          "ßÙÁ¨",
           "renrenmi",
           "ltnb",
           "rx"
@@ -645,20 +645,20 @@
       }
     },
     {
-      "name": "ç½‘ç»œæœé›†06",
+      "name": "ÍøÂçËÑ¼¯06",
       "type": 1,
       "url": "https://sz.dxzj88.com/jxrjrm/jiaomi.php?url=",
       "ext": {
         "flag": [
           "qq",
-          "è…¾è®¯",
+          "ÌÚÑ¶",
           "qiyi",
-          "çˆ±å¥‡è‰º",
-          "å¥‡è‰º",
+          "°®ÆæÒÕ",
+          "ÆæÒÕ",
           "youku",
-          "ä¼˜é…·",
+          "ÓÅ¿á",
           "sohu",
-          "èŠ’æžœ",
+          "Ã¢¹û",
           "mgtv",
           "xigua",
           "wuduzy",
@@ -666,7 +666,7 @@
           "pptv",
           "leduo",
           "Clk4",
-          "å“”å“©",
+          "ßÙÁ¨",
           "renrenmi",
           "ltnb",
           "rx"
@@ -674,7 +674,7 @@
       }
     },
     {
-      "name": "ç½‘ç»œæœé›†07",
+      "name": "ÍøÂçËÑ¼¯07",
       "type": 1,
       "url": "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url=",
       "ext": {
@@ -684,7 +684,7 @@
       }
     },
     {
-      "name": "ç½‘ç»œæœé›†08",
+      "name": "ÍøÂçËÑ¼¯08",
       "type": 1,
       "url": "https://svip.rongxingvr.top/api/?key=niBgMGXVdCQhsmeEBK&url=",
       "ext": {
@@ -696,26 +696,26 @@
           "wasu",
           "xigua",
           "renrenmi",
-          "ä¼˜é…·",
-          "èŠ’æžœ"
+          "ÓÅ¿á",
+          "Ã¢¹û"
         ]
       }
     },
     {
-      "name": "ç½‘ç»œæœé›†10",
+      "name": "ÍøÂçËÑ¼¯10",
       "type": 1,
       "url": "https://json.5lp.net/json.php?url=",
       "ext": {
         "flag": [
           "qq",
-          "è…¾è®¯",
+          "ÌÚÑ¶",
           "qiyi",
-          "çˆ±å¥‡è‰º",
-          "å¥‡è‰º",
+          "°®ÆæÒÕ",
+          "ÆæÒÕ",
           "youku",
-          "ä¼˜é…·",
+          "ÓÅ¿á",
           "mgtv",
-          "èŠ’æžœ",
+          "Ã¢¹û",
           "renrenmi",
           "Itnb"
         ]
@@ -745,11 +745,11 @@
     "miaoparty2",
     "miaoparty3",
     "renrenmi",
-    "ä¼˜é…·",
-    "èŠ’æžœ",
-    "è…¾è®¯",
-    "çˆ±å¥‡è‰º",
-    "å¥‡è‰º",
+    "ÓÅ¿á",
+    "Ã¢¹û",
+    "ÌÚÑ¶",
+    "°®ÆæÒÕ",
+    "ÆæÒÕ",
     "ltnb",
     "rx",
     "CL4K",
@@ -758,7 +758,7 @@
   ],
   "ijk": [
     {
-      "group": "è½¯è§£ç ",
+      "group": "Èí½âÂë",
       "options": [
         {
           "category": 4,
@@ -838,7 +838,7 @@
       ]
     },
     {
-      "group": "ç¡¬è§£ç ",
+      "group": "Ó²½âÂë",
       "options": [
         {
           "category": 4,
